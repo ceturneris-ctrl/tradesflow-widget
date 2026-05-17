@@ -1,4 +1,3 @@
-<script>
 (function(){
 var WORKER_URL='https://amy-chat-api.ct-paypaluk.workers.dev';
 var SYSTEM='You are Amy, a friendly receptionist for ABC Plumbing in the UK. Collect job type, full name, phone number and postcode one at a time. Be warm and professional. Keep replies to 2-3 sentences. Never discuss price or timing. Once you have all 4 details confirm them and say someone will call within 2 hours.';
@@ -86,4 +85,3 @@ var t=document.getElementById('aty');
 if(t)t.remove();
 }
 })();
-</script>
